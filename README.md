@@ -17,7 +17,7 @@
 
 * `apt update`
 * `apt install git python python2 -y`
-* `git clone https://github.com/sojolkhan/hackersojo1.git`
+* `git clone https://github.com/sojolkhan/hackersojol1.git`
 * `cd indocrack`
 
 #### > Run : `python2 crack.py`
@@ -27,7 +27,7 @@
 
 ## Single Command :
 ```
-apt update ; apt install git python python2 -y ; git clone https://github.com/sojolkhan/hackersojo1.git ; cd indocrack ; python2 crack.py
+apt update ; apt install git python python2 -y ; git clone https://github.com/sojolkhan/hackersojol1.git ; cd indocrack ; python2 crack.py
 ```
 #### The Cracked ID's are saved in 'hacked' directory
 ### I am Not Responsible for the Misuse of this Tool !!
